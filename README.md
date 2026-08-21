@@ -23,6 +23,7 @@ Le projet s'appuie sur un jeu d'images de chiens annotées par race (type *Stanf
 |---|---|
 | `deepLearning_1_notebook.ipynb` | Prétraitement des images (nettoyage, réglage automatique des niveaux) et data augmentation (rotation, flip, flou gaussien). Constitution du jeu de données au format attendu par le CNN. |
 | `deepLearning_2_programme.ipynb` | Programme de prédiction : chargement du modèle ResNet50 entraîné et de l'encodeur de labels, puis prédiction de la race sur de nouvelles images. |
+| `deepLearning_3_presentation.pptx` | Fichier de présentation. |
 
 ## 🧰 Technologies utilisées
 
