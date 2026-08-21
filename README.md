@@ -42,4 +42,4 @@ Le projet s'appuie sur un jeu d'images de chiens annotées par race (type *Stanf
 
 ## 👤 Auteur
 
-David Depouez — Projet réalisé dans le cadre de la formation Ingénieur Machine Learning (OpenClassrooms, RNCP niv. 7).
+David Depouez — Projet réalisé dans le cadre de la formation *Ingénieur Machine Learning (OpenClassrooms, RNCP niv. 7)*.
